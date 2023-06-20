@@ -1,4 +1,4 @@
-# pred_sintomas_gripais
+# Pred_sintomas_gripais
 **Desenvolvimento de um indicador que prevê síndrome gripal em determinados estados**
 
 Para baixar os arquivos CSV contendo os dados, basta acessar o link abaixo e selecionar o Estado de interesse:
