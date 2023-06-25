@@ -7,4 +7,4 @@ https://opendatasus.saude.gov.br/dataset/notificacoes-de-sindrome-gripal-leve-20
 
 A versão atual do código utiliza os quatro arquivos CSV com os dados do Estado de Minas Gerais.
 
-Para executar o código, os arquivos CSV devem ser salvos na pasta do projeto.
+Para executar o código, os arquivos CSV devem ser salvos na pasta do projeto!
