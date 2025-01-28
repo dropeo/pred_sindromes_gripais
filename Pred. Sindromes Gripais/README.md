@@ -1,4 +1,4 @@
-# Pred_sintomas_gripais
+# Projeto de predição de sindromes gripais (covid19-gripes, influenza).
 **Desenvolvimento de um indicador que prevê síndrome gripal em determinados estados**
 
 Para baixar os arquivos CSV contendo os dados, basta acessar o link abaixo e selecionar o Estado de interesse:
