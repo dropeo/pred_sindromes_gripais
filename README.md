@@ -29,4 +29,4 @@ Target: Flu syndrome (síndrome gripal) case notifications
 ToolPurposePythonCore languagescikit-learnSVR model + metricspandasData manipulationmatplotlibVisualizationJupyter NotebookDevelopment environment
 
 👤 Author
-Pedro Oliveira — @dropeo
+me.
